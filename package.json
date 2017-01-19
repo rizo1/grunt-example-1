@@ -1,0 +1,16 @@
+{
+  "name": "grunt-example-1",
+  "version": "1.0.0",
+  "description": "a demonstration of how to use Grunt to minify CSS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Restrepo",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
